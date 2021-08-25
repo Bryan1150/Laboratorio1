@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{AD40B37F-644B-4179-BAD0-DB7AADDBC748}</ProjectGuid>
+    <ProjectGuid>{226EB056-4A82-4479-AFD9-51076572A8D3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Laboratorio1.Tests</RootNamespace>
@@ -100,7 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Laboratorio1\Laboratorio1.csproj">
-      <Project>{AE3E9419-5F46-4D58-9399-F527A4933C4D}</Project>
+      <Project>{7D8BCCCA-5DEB-4597-9251-5232A6B03EB5}</Project>
       <Name>Laboratorio1</Name>
     </ProjectReference>
   </ItemGroup>
